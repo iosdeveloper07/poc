@@ -1,0 +1,6 @@
+framework module Pods_POC_POCUITests {
+  umbrella header "Pods-POC-POCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
